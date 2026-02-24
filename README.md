@@ -1,4 +1,4 @@
-# A BoxVariant Model
+# A Box Model
 
 
 
